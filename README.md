@@ -1,6 +1,10 @@
 # Rapidd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+![1st PAGE](https://github.com/yuvaraja5/Employee-Working-time-monitoring/assets/107973584/0ada7352-5078-4b19-b81c-99109415f4ed)
+![2nd PAGE FOR 5 PAGINATION](https://github.com/yuvaraja5/Employee-Working-time-monitoring/assets/107973584/0fe0e5f2-2667-4363-921e-4f294218b010)!
+[2nd PAGE FOR 10 PAGINATION](https://github.com/yuvaraja5/Employee-Working-time-monitoring/assets/107973584/c21e881a-7001-4448-9b3c-d5e8256b1b86)
+
 
 ## Development server
 
